@@ -1,2 +1,2 @@
-#Style-Mart
+# Style-Mart
 A Clothes Shop Management System.
